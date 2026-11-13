@@ -1,0 +1,17 @@
+application_id,application_name,business_service_id,business_service,criticality_tier,primary_engine,certified_db_versions,sourcing,business_owner,data_label
+APP-PGW,Card Payment Gateway,BS-PAY,Payments & Checkout,Tier 0,Oracle,Oracle 19c;Oracle 23ai,Vendor package,james.iyer@contoso-demo.example,SYNTHETIC-DEMO
+APP-OMS,Order Management,BS-PAY,Payments & Checkout,Tier 1,Oracle,Oracle 19c,Vendor package,chloe.nair@contoso-demo.example,SYNTHETIC-DEMO
+APP-PRC,Payment Reconciliation,BS-PAY,Payments & Checkout,Tier 1,Oracle,Oracle 19c;Oracle 23ai,In-house,emma.iyer@contoso-demo.example,SYNTHETIC-DEMO
+APP-GFT,Gift Card Platform,BS-PAY,Payments & Checkout,Tier 2,Oracle,Unknown,Vendor package,chloe.brown@contoso-demo.example,SYNTHETIC-DEMO
+APP-WMS,Warehouse Management,BS-SCM,Supply Chain & Inventory,Tier 1,Oracle,Oracle 19c,Vendor package,grace.evans@contoso-demo.example,SYNTHETIC-DEMO
+APP-SRP,Stock Replenishment,BS-SCM,Supply Chain & Inventory,Tier 1,Oracle,Oracle 19c;Oracle 23ai,In-house,priya.jones@contoso-demo.example,SYNTHETIC-DEMO
+APP-SUP,Supplier Portal,BS-SCM,Supply Chain & Inventory,Tier 3,Oracle,Oracle 19c;PostgreSQL 16,In-house,ananya.jones@contoso-demo.example,SYNTHETIC-DEMO
+APP-DFC,Demand Forecasting,BS-SCM,Supply Chain & Inventory,Tier 2,Oracle,Oracle 19c,In-house,oliver.reddy@contoso-demo.example,SYNTHETIC-DEMO
+APP-LOY,Customer Loyalty,BS-PAY,Payments & Checkout,Tier 2,SQL Server,SQL Server 2019;SQL Server 2022;Azure SQL,In-house,ananya.wilson@contoso-demo.example,SYNTHETIC-DEMO
+APP-RFD,Refunds & Returns,BS-PAY,Payments & Checkout,Tier 1,SQL Server,SQL Server 2022;Azure SQL,In-house,emma.sharma@contoso-demo.example,SYNTHETIC-DEMO
+APP-FRD,Fraud Screening,BS-PAY,Payments & Checkout,Tier 0,SQL Server,SQL Server 2019;SQL Server 2022,Vendor package,liam.smith@contoso-demo.example,SYNTHETIC-DEMO
+APP-POS,Store POS Back-office,BS-PAY,Payments & Checkout,Tier 1,SQL Server,SQL Server 2019,Vendor package,priya.iyer@contoso-demo.example,SYNTHETIC-DEMO
+APP-TMS,Transport Management,BS-SCM,Supply Chain & Inventory,Tier 2,SQL Server,SQL Server 2022;Azure SQL,Vendor package,chloe.wilson@contoso-demo.example,SYNTHETIC-DEMO
+APP-PIM,Product Information Mgmt,BS-SCM,Supply Chain & Inventory,Tier 2,SQL Server,SQL Server 2022;Azure SQL,In-house,oliver.smith@contoso-demo.example,SYNTHETIC-DEMO
+APP-INV,Inventory Visibility,BS-SCM,Supply Chain & Inventory,Tier 1,SQL Server,SQL Server 2019;SQL Server 2022;Azure SQL,In-house,liam.khan@contoso-demo.example,SYNTHETIC-DEMO
+APP-DPL,Distribution Planning,BS-SCM,Supply Chain & Inventory,Tier 3,SQL Server,Unknown,In-house,aarav.smith@contoso-demo.example,SYNTHETIC-DEMO

@@ -1,0 +1,16 @@
+instance_id,expected_action,expected_readiness,rationale
+MSS-0001,Cloud Migrate,Ready,"SQL 2014 paying ESU - Azure SQL Managed Instance is evergreen, removes ESU and right-sizes compute."
+MSS-0002,Replatform,Ready,"Enterprise edition with no Enterprise-only features, 16 cores / 96 GB within Standard limits."
+MSS-0003,Consolidate,Ready,Four Standard test instances for the same service under 15% CPU p95 - consolidate onto one host.
+MSS-0004,Consolidate,Ready,Four Standard test instances for the same service under 15% CPU p95 - consolidate onto one host.
+MSS-0005,Consolidate,Ready,Four Standard test instances for the same service under 15% CPU p95 - consolidate onto one host.
+MSS-0006,Consolidate,Ready,Four Standard test instances for the same service under 15% CPU p95 - consolidate onto one host.
+MSS-0007,Upgrade,Ready,SQL 2014 with ESU but data residency is On-Premises Only - cloud is a hard-constraint fail; upgrade in place.
+MSS-0008,Retire,Conditional,"Idle production DB for 150 days - retire, but production retirement needs owner sign-off and retention check."
+ORA-0001,Upgrade,Ready,Unsupported Oracle 11.2.0.4 with heavy PL/SQL and options in use - in-place upgrade to 19c is the lowest-risk fix.
+ORA-0002,Replatform,Ready,Enterprise Edition with zero EE options in use and within SE2 limits - edition downgrade releases EE support.
+ORA-0003,Retire,Ready,No connections for 210 days and no active dependants - retire and harvest licences.
+ORA-0004,Replatform,Blocked,Edition downgrade is attractive but dependencies are unknown - hard constraint blocks readiness.
+ORA-0005,Upgrade,Conditional,"Unsupported 12.1 - upgrade needed but RPO/RTO unknown, so downtime window cannot be validated."
+ORA-0006,Upgrade,Ready,Tier-0 RAC/ADG payment DB on unsupported 12.2 - RAC not supported on Azure VMs; upgrade to 19c first.
+ORA-0007,Replatform,Conditional,Small SE2 database with low PL/SQL complexity - candidate for Azure PostgreSQL after code-conversion assessment.

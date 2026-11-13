@@ -1,0 +1,769 @@
+instance_id,cost_type,annual_cost_gbp,source,evidence_quality,is_assumption,fiscal_year,data_label
+ORA-0001,licence_support,93632.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0001,sustaining_support_uplift,18726.4,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0001,infrastructure,16512.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0001,storage,5184.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0001,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0001,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0002,licence_support,33440.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0002,infrastructure,8256.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0002,storage,1728.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0002,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0002,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0003,licence_support,16720.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0003,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0003,storage,345.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0003,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0003,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0004,licence_support,33440.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0004,infrastructure,8256.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0004,storage,1872.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0004,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0004,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0005,licence_support,100672.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0005,sustaining_support_uplift,20134.4,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0005,infrastructure,16512.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0005,storage,6912.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0005,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0005,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0006,licence_support,255552.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0006,sustaining_support_uplift,51110.4,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0006,infrastructure,26304.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0006,storage,10944.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0006,dba_operations,14000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0006,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0007,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0007,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0007,storage,259.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0007,dba_operations,3500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0007,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0008,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0008,infrastructure,6912.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0008,storage,1414.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0008,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0008,dc_facilities,3000.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0009,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0009,infrastructure,4128.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0009,storage,336.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0009,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0009,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0010,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0010,sustaining_support_uplift,616.0,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0010,infrastructure,3744.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0010,storage,1792.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0010,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0010,dc_facilities,3000.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0011,licence_support,187264.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0011,sustaining_support_uplift,37452.8,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0011,infrastructure,19584.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0011,storage,8760.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0011,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0011,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0012,licence_support,19360.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0012,infrastructure,1872.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0012,storage,1049.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0012,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0012,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0013,licence_support,30800.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0013,infrastructure,1872.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0013,storage,2176.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0013,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0013,dc_facilities,3000.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0014,licence_support,24816.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0014,sustaining_support_uplift,4963.2,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0014,infrastructure,2304.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0014,storage,695.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0014,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0015,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0015,infrastructure,7488.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0015,storage,1443.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0015,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0015,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0016,licence_support,148896.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0016,sustaining_support_uplift,29779.2,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0016,infrastructure,16224.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0016,storage,10000.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0016,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0016,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0017,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0017,infrastructure,1872.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0017,storage,3049.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0017,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0017,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0018,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0018,infrastructure,2304.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0018,storage,334.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0018,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0019,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0019,infrastructure,2304.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0019,storage,358.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0019,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0020,licence_support,164736.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0020,infrastructure,21696.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0020,storage,12058.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0020,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0020,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0021,licence_support,71104.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0021,sustaining_support_uplift,14220.8,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0021,infrastructure,9792.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0021,storage,9959.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0021,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0021,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0022,licence_support,50336.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0022,sustaining_support_uplift,10067.2,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0022,infrastructure,3744.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0022,storage,752.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0022,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0022,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0023,licence_support,35376.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0023,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0023,storage,2460.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0023,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0023,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0024,licence_support,93632.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0024,infrastructure,16512.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0024,storage,5734.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0024,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0024,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0025,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0025,infrastructure,4608.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0025,storage,2140.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0025,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0026,licence_support,38720.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0026,infrastructure,6912.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0026,storage,117.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0026,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0026,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0027,licence_support,36960.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0027,infrastructure,3744.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0027,storage,2439.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0027,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0027,dc_facilities,3000.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0028,licence_support,19360.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0028,infrastructure,3744.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0028,storage,2323.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0028,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0028,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0029,licence_support,62304.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0029,infrastructure,6912.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0029,storage,6575.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0029,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0030,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0030,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0030,storage,1420.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0030,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0030,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0031,licence_support,156288.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0031,sustaining_support_uplift,31257.6,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0031,infrastructure,23232.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0031,storage,9277.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0031,dba_operations,3500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0031,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0032,licence_support,126720.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0032,sustaining_support_uplift,25344.0,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0032,infrastructure,14688.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0032,storage,5675.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0032,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0032,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0033,licence_support,25520.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0033,infrastructure,1872.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0033,storage,1933.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0033,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0033,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0034,licence_support,75328.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0034,infrastructure,12864.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0034,storage,4289.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0034,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0034,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0035,licence_support,10384.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0035,infrastructure,1032.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0035,storage,2010.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0035,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0035,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0036,licence_support,230912.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0036,infrastructure,18432.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0036,storage,1866.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0036,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0037,licence_support,109824.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0037,sustaining_support_uplift,21964.8,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0037,infrastructure,12864.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0037,storage,15193.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0037,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0037,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0038,licence_support,123904.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0038,infrastructure,9216.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0038,storage,3371.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0038,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0039,licence_support,11704.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0039,infrastructure,1152.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0039,storage,1142.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0039,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0040,licence_support,16720.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0040,infrastructure,2448.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0040,storage,2709.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0040,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0040,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0041,licence_support,132000.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0041,infrastructure,10848.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0041,storage,14882.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0041,dba_operations,14000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0041,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0042,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0042,infrastructure,6912.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0042,storage,2532.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0042,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0042,dc_facilities,3000.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0043,licence_support,156288.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0043,sustaining_support_uplift,31257.6,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0043,infrastructure,13824.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0043,storage,9868.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0043,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0044,licence_support,77440.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0044,sustaining_support_uplift,15488.0,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0044,infrastructure,8256.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0044,storage,8325.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0044,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0044,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0045,licence_support,33440.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0045,infrastructure,6912.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0045,storage,1675.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0045,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0045,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0046,licence_support,93632.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0046,sustaining_support_uplift,18726.4,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0046,infrastructure,9216.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0046,storage,2990.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0046,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0047,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0047,sustaining_support_uplift,616.0,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0047,infrastructure,9792.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0047,storage,9905.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0047,dba_operations,3500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0047,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0048,licence_support,41536.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0048,infrastructure,3744.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0048,storage,1216.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0048,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0048,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0049,licence_support,28688.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0049,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0049,storage,918.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0049,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0049,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0050,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0050,infrastructure,3552.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0050,storage,2174.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0050,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0050,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0051,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0051,infrastructure,6912.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0051,storage,2165.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0051,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0051,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0052,licence_support,73920.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0052,infrastructure,9648.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0052,storage,9824.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0052,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0052,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0053,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0053,sustaining_support_uplift,616.0,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0053,infrastructure,4128.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0053,storage,522.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0053,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0053,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0054,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0054,infrastructure,4128.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0054,storage,118.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0054,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0054,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0055,licence_support,19360.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0055,infrastructure,3552.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0055,storage,612.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0055,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0055,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0056,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0056,infrastructure,4128.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0056,storage,1530.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0056,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0056,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0057,licence_support,69696.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0057,infrastructure,7488.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0057,storage,991.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0057,dba_operations,14000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0057,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0058,licence_support,46816.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0058,infrastructure,4128.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0058,storage,1902.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0058,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0058,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0059,licence_support,229504.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0059,sustaining_support_uplift,45900.8,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0059,infrastructure,14976.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0059,storage,1567.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0059,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0059,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0060,licence_support,26928.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0060,infrastructure,1872.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0060,storage,2651.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0060,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0060,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0061,licence_support,11704.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0061,sustaining_support_uplift,2340.8,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0061,infrastructure,1224.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0061,storage,3245.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0061,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0061,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0062,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0062,infrastructure,3744.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0062,storage,2320.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0062,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0062,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0063,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0063,infrastructure,1032.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0063,storage,1315.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0063,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0063,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0064,licence_support,20768.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0064,infrastructure,1872.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0064,storage,2509.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0064,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0064,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0065,licence_support,16720.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0065,infrastructure,1872.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0065,storage,1747.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0065,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0065,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0066,licence_support,84480.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0066,infrastructure,7488.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0066,storage,9586.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0066,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0066,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0067,licence_support,38720.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0067,infrastructure,3552.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0067,storage,2934.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0067,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0067,dc_facilities,3000.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0068,licence_support,133760.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0068,sustaining_support_uplift,26752.0,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0068,infrastructure,18432.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0068,storage,2618.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0068,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0069,licence_support,128832.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0069,infrastructure,12864.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0069,storage,8832.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0069,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0069,dc_facilities,3000.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0070,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0070,sustaining_support_uplift,616.0,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0070,infrastructure,7488.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0070,storage,6487.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0070,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0070,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0071,licence_support,199584.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0071,sustaining_support_uplift,39916.8,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0071,infrastructure,23232.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0071,storage,7232.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0071,dba_operations,14000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0071,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0072,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0072,infrastructure,7488.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0072,storage,1830.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0072,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0072,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0073,licence_support,19360.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0073,sustaining_support_uplift,3872.0,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0073,infrastructure,2304.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0073,storage,102.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0073,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0074,licence_support,200640.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0074,sustaining_support_uplift,40128.0,Oracle Market-Driven Support quote (MDS-DEMO-221),Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0074,infrastructure,20928.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0074,storage,10126.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0074,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0074,dc_facilities,3000.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0075,licence_support,3080.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0075,infrastructure,7968.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0075,storage,11010.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+ORA-0075,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+ORA-0075,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0001,licence_support,12100.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0001,extended_security_updates,36300.0,Microsoft ESU order (EA-DEMO-7781),High,False,FY26,SYNTHETIC-DEMO
+MSS-0001,infrastructure,4128.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0001,storage,1008.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0001,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0001,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0002,licence_support,24200.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0002,infrastructure,14592.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0002,storage,2592.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0002,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0002,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0003,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0003,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0003,storage,172.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0003,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0003,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0004,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0004,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0004,storage,172.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0004,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0004,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0005,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0005,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0005,storage,172.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0005,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0005,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0006,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0006,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0006,storage,172.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0006,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0006,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0007,licence_support,24200.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0007,extended_security_updates,72600.0,Microsoft ESU order (EA-DEMO-7781),High,False,FY26,SYNTHETIC-DEMO
+MSS-0007,infrastructure,16512.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0007,storage,6336.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0007,dba_operations,14000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0007,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0008,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0008,extended_security_updates,4740.0,Microsoft ESU order (EA-DEMO-7781),High,False,FY26,SYNTHETIC-DEMO
+MSS-0008,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0008,storage,432.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0008,dba_operations,3500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0008,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0009,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0009,infrastructure,4128.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0009,storage,91.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0009,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0009,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0010,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0010,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0010,storage,1632.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0010,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0010,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0011,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0011,infrastructure,1872.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0011,storage,2862.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0011,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0011,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0012,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0012,infrastructure,3744.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0012,storage,1319.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0012,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0012,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0013,licence_support,6320.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0013,infrastructure,9216.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0013,storage,7002.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0013,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0014,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0014,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0014,storage,108.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0014,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0014,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0015,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0015,infrastructure,2448.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0015,storage,1773.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0015,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0015,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0016,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0016,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0016,storage,2583.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0016,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0016,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0017,licence_support,3160.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0017,infrastructure,3744.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0017,storage,1485.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0017,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0017,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0018,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0018,infrastructure,1872.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0018,storage,1684.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0018,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0018,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0019,licence_support,6320.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0019,infrastructure,7488.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0019,storage,6724.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0019,dba_operations,14000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0019,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0020,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0020,infrastructure,2448.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0020,storage,667.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0020,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0020,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0021,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0021,infrastructure,3552.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0021,storage,1382.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0021,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0021,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0022,licence_support,12640.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0022,extended_security_updates,37920.0,Microsoft ESU order (EA-DEMO-7781),High,False,FY26,SYNTHETIC-DEMO
+MSS-0022,infrastructure,18048.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0022,storage,5002.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0022,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0022,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0023,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0023,infrastructure,2448.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0023,storage,275.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0023,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0023,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0024,licence_support,12100.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0024,infrastructure,4608.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0024,storage,2114.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0024,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0025,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0025,infrastructure,1032.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0025,storage,2073.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0025,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0025,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0026,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0026,extended_security_updates,0.0,Microsoft ESU order (EA-DEMO-7781),High,False,FY26,SYNTHETIC-DEMO
+MSS-0026,infrastructure,1872.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0026,storage,2039.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0026,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0026,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0027,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0027,infrastructure,1872.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0027,storage,801.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0027,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0027,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0028,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0028,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0028,storage,765.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0028,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0028,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0029,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0029,infrastructure,1608.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0029,storage,2824.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0029,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0029,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0030,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0030,extended_security_updates,0.0,Microsoft ESU order (EA-DEMO-7781),High,False,FY26,SYNTHETIC-DEMO
+MSS-0030,infrastructure,3744.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0030,storage,149.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0030,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0030,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0031,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0031,infrastructure,4128.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0031,storage,2244.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0031,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0031,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0032,licence_support,9480.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0032,infrastructure,24768.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0032,storage,6561.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0032,dba_operations,3500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0032,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0033,licence_support,3160.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0033,extended_security_updates,9480.0,Microsoft ESU order (EA-DEMO-7781),High,False,FY26,SYNTHETIC-DEMO
+MSS-0033,infrastructure,4608.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0033,storage,2542.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0033,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0034,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0034,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0034,storage,2658.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0034,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0034,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0035,licence_support,9480.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0035,infrastructure,13824.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0035,storage,1083.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0035,dba_operations,14000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0036,licence_support,24200.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0036,infrastructure,19584.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0036,storage,14724.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0036,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0036,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0037,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0037,infrastructure,3552.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0037,storage,2066.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0037,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0037,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0038,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0038,infrastructure,7104.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0038,storage,743.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0038,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0038,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0039,licence_support,9480.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0039,infrastructure,14688.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0039,storage,6017.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0039,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0039,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0040,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0040,infrastructure,2304.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0040,storage,1230.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0040,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0041,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0041,infrastructure,1032.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0041,storage,2070.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0041,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0041,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0042,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0042,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0042,storage,2521.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0042,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0042,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0043,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0043,infrastructure,2064.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0043,storage,2597.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0043,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0043,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0044,licence_support,3160.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0044,infrastructure,4128.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0044,storage,401.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0044,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0044,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0045,licence_support,3160.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0045,infrastructure,4128.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0045,storage,972.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0045,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0045,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0046,licence_support,12100.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0046,extended_security_updates,36300.0,Microsoft ESU order (EA-DEMO-7781),High,False,FY26,SYNTHETIC-DEMO
+MSS-0046,infrastructure,7968.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0046,storage,7984.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0046,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0046,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0047,licence_support,18150.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0047,infrastructure,10848.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0047,storage,1956.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0047,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0047,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0048,licence_support,9480.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0048,extended_security_updates,28440.0,Microsoft ESU order (EA-DEMO-7781),High,False,FY26,SYNTHETIC-DEMO
+MSS-0048,infrastructure,14688.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0048,storage,11948.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0048,dba_operations,3500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0048,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0049,licence_support,9480.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0049,extended_security_updates,28440.0,Microsoft ESU order (EA-DEMO-7781),High,False,FY26,SYNTHETIC-DEMO
+MSS-0049,infrastructure,11616.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0049,storage,5601.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0049,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0049,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0050,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0050,infrastructure,2448.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0050,storage,993.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0050,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0050,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0051,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0051,infrastructure,3552.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0051,storage,1294.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0051,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0051,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0052,licence_support,18150.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0052,infrastructure,14688.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0052,storage,3445.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0052,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0052,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0053,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0053,infrastructure,1032.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0053,storage,1321.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0053,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0053,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0054,licence_support,9480.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0054,infrastructure,16224.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0054,storage,6580.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0054,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0054,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0055,licence_support,4740.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0055,infrastructure,10848.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0055,storage,8724.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0055,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0055,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0056,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0056,infrastructure,1224.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0056,storage,693.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0056,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0056,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0057,licence_support,9480.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0057,extended_security_updates,28440.0,Microsoft ESU order (EA-DEMO-7781),High,False,FY26,SYNTHETIC-DEMO
+MSS-0057,infrastructure,13824.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0057,storage,4746.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0057,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0058,licence_support,48400.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0058,infrastructure,14976.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0058,storage,7968.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0058,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0058,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0059,licence_support,4740.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0059,infrastructure,13152.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0059,storage,1371.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0059,dba_operations,14000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0059,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0060,licence_support,4740.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0060,infrastructure,11616.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0060,storage,3369.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0060,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0060,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0061,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0061,infrastructure,3744.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0061,storage,1931.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0061,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0061,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0062,licence_support,3160.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0062,infrastructure,4128.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0062,storage,2752.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0062,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0062,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0063,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0063,infrastructure,2304.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0063,storage,1274.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0063,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0064,licence_support,12100.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0064,infrastructure,3744.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0064,storage,2336.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0064,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0064,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0065,licence_support,12640.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0065,extended_security_updates,37920.0,Microsoft ESU order (EA-DEMO-7781),High,False,FY26,SYNTHETIC-DEMO
+MSS-0065,infrastructure,29952.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0065,storage,13930.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0065,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0065,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0066,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0066,infrastructure,1872.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0066,storage,2644.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0066,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0066,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0067,licence_support,6050.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0067,infrastructure,2304.0,Azure Cost Management export,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0067,storage,32.2,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0067,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0068,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0068,extended_security_updates,4740.0,Microsoft ESU order (EA-DEMO-7781),High,False,FY26,SYNTHETIC-DEMO
+MSS-0068,infrastructure,1224.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0068,storage,2197.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0068,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0068,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0069,licence_support,9480.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0069,infrastructure,14688.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0069,storage,4122.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0069,dba_operations,6000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0069,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0070,licence_support,12100.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0070,infrastructure,4128.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0070,storage,1702.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0070,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0070,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0071,licence_support,9480.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0071,infrastructure,11616.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0071,storage,1594.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0071,dba_operations,10000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0071,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0072,licence_support,1580.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0072,infrastructure,1872.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0072,storage,2404.8,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0072,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0072,dc_facilities,2400.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0073,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0073,infrastructure,1872.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0073,storage,3072.6,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0073,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0073,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0074,licence_support,0.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0074,extended_security_updates,0.0,Microsoft ESU order (EA-DEMO-7781),High,False,FY26,SYNTHETIC-DEMO
+MSS-0074,infrastructure,1608.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0074,storage,378.0,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0074,dba_operations,2500.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0074,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0075,licence_support,18150.0,Contract register / list-price allocation,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0075,infrastructure,11184.0,Finance chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0075,storage,10310.4,Storage chargeback FY26,Medium,False,FY26,SYNTHETIC-DEMO
+MSS-0075,dba_operations,14000.0,Assumption: DBA rate card x effort band,Low,True,FY26,SYNTHETIC-DEMO
+MSS-0075,dc_facilities,900.0,Assumption: DC power/space allocation,Low,True,FY26,SYNTHETIC-DEMO

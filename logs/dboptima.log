@@ -1,0 +1,311 @@
+2026-11-13 11:52:55,843 | INFO | dboptima.data_generator | Wrote database_instances (150 rows)
+2026-11-13 11:52:55,848 | INFO | dboptima.data_generator | Wrote applications (16 rows)
+2026-11-13 11:52:55,898 | INFO | dboptima.data_generator | Wrote workload_metrics (150 rows)
+2026-11-13 11:52:55,903 | INFO | dboptima.data_generator | Wrote feature_usage (146 rows)
+2026-11-13 11:52:55,911 | INFO | dboptima.data_generator | Wrote recovery_requirements (150 rows)
+2026-11-13 11:52:55,916 | INFO | dboptima.data_generator | Wrote dependencies (164 rows)
+2026-11-13 11:52:55,923 | INFO | dboptima.data_generator | Wrote cost_records (754 rows)
+2026-11-13 11:52:55,929 | INFO | dboptima.data_generator | Wrote license_entitlements (15 rows)
+2026-11-13 11:52:55,935 | INFO | dboptima.data_generator | Wrote cmdb_extract (151 rows)
+2026-11-13 11:52:55,942 | INFO | dboptima.data_generator | Wrote discovery_scan (148 rows)
+2026-11-13 11:52:55,947 | INFO | dboptima.data_generator | Wrote validation_sample (44 rows)
+2026-11-13 11:52:55,950 | INFO | dboptima.data_generator | Wrote expected_outcomes (15 rows)
+2026-11-13 12:11:52,559 | INFO | dboptima.data_generator | Wrote database_instances (150 rows)
+2026-11-13 12:11:52,564 | INFO | dboptima.data_generator | Wrote applications (16 rows)
+2026-11-13 12:11:52,568 | INFO | dboptima.data_generator | Wrote workload_metrics (150 rows)
+2026-11-13 12:11:52,572 | INFO | dboptima.data_generator | Wrote feature_usage (112 rows)
+2026-11-13 12:11:52,577 | INFO | dboptima.data_generator | Wrote recovery_requirements (150 rows)
+2026-11-13 12:11:52,582 | INFO | dboptima.data_generator | Wrote dependencies (163 rows)
+2026-11-13 12:11:52,588 | INFO | dboptima.data_generator | Wrote cost_records (768 rows)
+2026-11-13 12:11:52,591 | INFO | dboptima.data_generator | Wrote license_entitlements (15 rows)
+2026-11-13 12:11:52,596 | INFO | dboptima.data_generator | Wrote cmdb_extract (151 rows)
+2026-11-13 12:11:52,601 | INFO | dboptima.data_generator | Wrote discovery_scan (148 rows)
+2026-11-13 12:11:52,605 | INFO | dboptima.data_generator | Wrote validation_sample (44 rows)
+2026-11-13 12:11:52,608 | INFO | dboptima.data_generator | Wrote expected_outcomes (15 rows)
+2026-11-13 12:11:52,748 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:11:52,984 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:11:53,038 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:11:53,741 | INFO | dboptima.decision_engine | Decision engine: {'Upgrade': 43, 'Cloud Migrate': 43, 'Replatform': 25, 'Retain': 22, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:11:53,955 | WARNING | dboptima.ai_advisor | Azure OpenAI unavailable - falling back: TimeoutError: down
+2026-11-13 12:11:54,196 | INFO | dboptima.database | Human decision recorded: REC-X Approved by A. Architect (Architect)
+2026-11-13 12:11:54,930 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records excluded
+2026-11-13 12:11:55,091 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 71, 'reconciliation_rate': np.float64(47.3), 'matched': 73, 'conflicts_resolved': 6, 'shadow': 1, 'ghost': 2, 'not_discovered': 75, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:11:55,352 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:11:55,401 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:11:56,136 | INFO | dboptima.decision_engine | Decision engine: {'Upgrade': 43, 'Cloud Migrate': 43, 'Replatform': 25, 'Retain': 22, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:12:19,945 | INFO | dboptima.data_generator | Wrote database_instances (150 rows)
+2026-11-13 12:12:19,950 | INFO | dboptima.data_generator | Wrote applications (16 rows)
+2026-11-13 12:12:19,955 | INFO | dboptima.data_generator | Wrote workload_metrics (150 rows)
+2026-11-13 12:12:19,960 | INFO | dboptima.data_generator | Wrote feature_usage (112 rows)
+2026-11-13 12:12:19,966 | INFO | dboptima.data_generator | Wrote recovery_requirements (150 rows)
+2026-11-13 12:12:19,970 | INFO | dboptima.data_generator | Wrote dependencies (163 rows)
+2026-11-13 12:12:19,979 | INFO | dboptima.data_generator | Wrote cost_records (768 rows)
+2026-11-13 12:12:19,985 | INFO | dboptima.data_generator | Wrote license_entitlements (15 rows)
+2026-11-13 12:12:19,990 | INFO | dboptima.data_generator | Wrote cmdb_extract (151 rows)
+2026-11-13 12:12:19,999 | INFO | dboptima.data_generator | Wrote discovery_scan (148 rows)
+2026-11-13 12:12:20,004 | INFO | dboptima.data_generator | Wrote validation_sample (44 rows)
+2026-11-13 12:12:20,012 | INFO | dboptima.data_generator | Wrote expected_outcomes (15 rows)
+2026-11-13 12:12:20,227 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:12:20,719 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:12:20,866 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:12:21,981 | INFO | dboptima.decision_engine | Decision engine: {'Upgrade': 43, 'Cloud Migrate': 43, 'Replatform': 25, 'Retain': 22, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:12:22,222 | WARNING | dboptima.ai_advisor | Azure OpenAI unavailable - falling back: TimeoutError: down
+2026-11-13 12:12:22,481 | INFO | dboptima.database | Human decision recorded: REC-X Approved by A. Architect (Architect)
+2026-11-13 12:12:22,611 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records excluded
+2026-11-13 12:12:22,731 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 71, 'reconciliation_rate': np.float64(47.3), 'matched': 73, 'conflicts_resolved': 6, 'shadow': 1, 'ghost': 2, 'not_discovered': 75, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:12:23,057 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:12:23,141 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:12:23,889 | INFO | dboptima.decision_engine | Decision engine: {'Upgrade': 43, 'Cloud Migrate': 43, 'Replatform': 25, 'Retain': 22, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:12:27,574 | INFO | dboptima.data_generator | Wrote database_instances (150 rows)
+2026-11-13 12:12:27,579 | INFO | dboptima.data_generator | Wrote applications (16 rows)
+2026-11-13 12:12:27,584 | INFO | dboptima.data_generator | Wrote workload_metrics (150 rows)
+2026-11-13 12:12:27,588 | INFO | dboptima.data_generator | Wrote feature_usage (112 rows)
+2026-11-13 12:12:27,593 | INFO | dboptima.data_generator | Wrote recovery_requirements (150 rows)
+2026-11-13 12:12:27,598 | INFO | dboptima.data_generator | Wrote dependencies (163 rows)
+2026-11-13 12:12:27,605 | INFO | dboptima.data_generator | Wrote cost_records (768 rows)
+2026-11-13 12:12:27,609 | INFO | dboptima.data_generator | Wrote license_entitlements (15 rows)
+2026-11-13 12:12:27,615 | INFO | dboptima.data_generator | Wrote cmdb_extract (151 rows)
+2026-11-13 12:12:27,621 | INFO | dboptima.data_generator | Wrote discovery_scan (148 rows)
+2026-11-13 12:12:27,624 | INFO | dboptima.data_generator | Wrote validation_sample (44 rows)
+2026-11-13 12:12:27,628 | INFO | dboptima.data_generator | Wrote expected_outcomes (15 rows)
+2026-11-13 12:12:27,806 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:12:28,137 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:12:28,199 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:12:28,875 | INFO | dboptima.decision_engine | Decision engine: {'Upgrade': 43, 'Cloud Migrate': 43, 'Replatform': 25, 'Retain': 22, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:12:29,453 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:13:03,405 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:13:03,734 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:13:03,806 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:13:04,598 | INFO | dboptima.decision_engine | Decision engine: {'Upgrade': 43, 'Cloud Migrate': 43, 'Replatform': 25, 'Retain': 22, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:13:04,956 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:14:12,020 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:14:12,378 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:14:12,475 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:14:13,254 | INFO | dboptima.decision_engine | Decision engine: {'Upgrade': 43, 'Cloud Migrate': 43, 'Replatform': 25, 'Retain': 22, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:14:13,558 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:15:09,120 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:15:09,775 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:15:09,940 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:15:12,595 | INFO | dboptima.decision_engine | Decision engine: {'Upgrade': 43, 'Cloud Migrate': 43, 'Replatform': 25, 'Retain': 22, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:15:13,064 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:15:14,140 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:15:14,893 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:15:15,036 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:15:16,715 | INFO | dboptima.decision_engine | Decision engine: {'Upgrade': 43, 'Cloud Migrate': 43, 'Replatform': 25, 'Retain': 22, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:15:17,240 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:17:35,709 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:17:35,932 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:17:35,982 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:17:36,565 | INFO | dboptima.decision_engine | Decision engine: {'Upgrade': 43, 'Cloud Migrate': 43, 'Replatform': 25, 'Retain': 22, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:17:36,828 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:25:32,035 | INFO | dboptima.data_generator | Wrote database_instances (150 rows)
+2026-11-13 12:25:32,038 | INFO | dboptima.data_generator | Wrote applications (16 rows)
+2026-11-13 12:25:32,045 | INFO | dboptima.data_generator | Wrote workload_metrics (150 rows)
+2026-11-13 12:25:32,050 | INFO | dboptima.data_generator | Wrote feature_usage (112 rows)
+2026-11-13 12:25:32,054 | INFO | dboptima.data_generator | Wrote recovery_requirements (150 rows)
+2026-11-13 12:25:32,060 | INFO | dboptima.data_generator | Wrote dependencies (163 rows)
+2026-11-13 12:25:32,067 | INFO | dboptima.data_generator | Wrote cost_records (768 rows)
+2026-11-13 12:25:32,074 | INFO | dboptima.data_generator | Wrote license_entitlements (15 rows)
+2026-11-13 12:25:32,082 | INFO | dboptima.data_generator | Wrote cmdb_extract (151 rows)
+2026-11-13 12:25:32,090 | INFO | dboptima.data_generator | Wrote discovery_scan (148 rows)
+2026-11-13 12:25:32,095 | INFO | dboptima.data_generator | Wrote validation_sample (44 rows)
+2026-11-13 12:25:32,098 | INFO | dboptima.data_generator | Wrote expected_outcomes (15 rows)
+2026-11-13 12:25:32,265 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:25:32,475 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:25:32,521 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:25:33,194 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:25:33,710 | WARNING | dboptima.ai_advisor | Azure OpenAI unavailable - falling back: TimeoutError: down
+2026-11-13 12:25:33,960 | INFO | dboptima.database | Human decision recorded: REC-X Approved by A. Architect (Architect)
+2026-11-13 12:25:34,041 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records excluded
+2026-11-13 12:25:34,123 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 71, 'reconciliation_rate': np.float64(47.3), 'matched': 73, 'conflicts_resolved': 6, 'shadow': 1, 'ghost': 2, 'not_discovered': 75, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:25:34,332 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:25:34,427 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:25:35,026 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:25:38,421 | INFO | dboptima.data_generator | Wrote database_instances (150 rows)
+2026-11-13 12:25:38,426 | INFO | dboptima.data_generator | Wrote applications (16 rows)
+2026-11-13 12:25:38,430 | INFO | dboptima.data_generator | Wrote workload_metrics (150 rows)
+2026-11-13 12:25:38,433 | INFO | dboptima.data_generator | Wrote feature_usage (112 rows)
+2026-11-13 12:25:38,438 | INFO | dboptima.data_generator | Wrote recovery_requirements (150 rows)
+2026-11-13 12:25:38,445 | INFO | dboptima.data_generator | Wrote dependencies (163 rows)
+2026-11-13 12:25:38,452 | INFO | dboptima.data_generator | Wrote cost_records (768 rows)
+2026-11-13 12:25:38,456 | INFO | dboptima.data_generator | Wrote license_entitlements (15 rows)
+2026-11-13 12:25:38,462 | INFO | dboptima.data_generator | Wrote cmdb_extract (151 rows)
+2026-11-13 12:25:38,467 | INFO | dboptima.data_generator | Wrote discovery_scan (148 rows)
+2026-11-13 12:25:38,470 | INFO | dboptima.data_generator | Wrote validation_sample (44 rows)
+2026-11-13 12:25:38,475 | INFO | dboptima.data_generator | Wrote expected_outcomes (15 rows)
+2026-11-13 12:25:38,638 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:25:38,900 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:25:38,955 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:25:39,758 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:25:40,066 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:26:34,489 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:26:34,783 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:26:34,855 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:26:35,736 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:26:36,040 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:26:43,686 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records excluded
+2026-11-13 12:26:43,795 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 71, 'reconciliation_rate': np.float64(47.3), 'matched': 73, 'conflicts_resolved': 6, 'shadow': 1, 'ghost': 2, 'not_discovered': 75, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:26:44,045 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:26:44,095 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:26:44,666 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:26:44,930 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:26:49,715 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records excluded
+2026-11-13 12:26:49,843 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 71, 'reconciliation_rate': np.float64(47.3), 'matched': 73, 'conflicts_resolved': 6, 'shadow': 1, 'ghost': 2, 'not_discovered': 75, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:26:50,120 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:26:50,180 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:26:50,765 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:26:51,031 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:26:55,712 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records excluded
+2026-11-13 12:26:55,843 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 71, 'reconciliation_rate': np.float64(47.3), 'matched': 73, 'conflicts_resolved': 6, 'shadow': 1, 'ghost': 2, 'not_discovered': 75, 'duplicates': 1, 'assessed_on': '2026-11-13'}
+2026-11-13 12:26:56,198 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:26:56,261 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:26:57,040 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:26:57,364 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:28:05,718 | INFO | dboptima.data_generator | Wrote database_instances (150 rows)
+2026-11-13 12:28:05,723 | INFO | dboptima.data_generator | Wrote applications (16 rows)
+2026-11-13 12:28:05,731 | INFO | dboptima.data_generator | Wrote workload_metrics (150 rows)
+2026-11-13 12:28:05,738 | INFO | dboptima.data_generator | Wrote feature_usage (112 rows)
+2026-11-13 12:28:05,744 | INFO | dboptima.data_generator | Wrote recovery_requirements (150 rows)
+2026-11-13 12:28:05,749 | INFO | dboptima.data_generator | Wrote dependencies (163 rows)
+2026-11-13 12:28:05,759 | INFO | dboptima.data_generator | Wrote cost_records (768 rows)
+2026-11-13 12:28:05,764 | INFO | dboptima.data_generator | Wrote license_entitlements (15 rows)
+2026-11-13 12:28:05,770 | INFO | dboptima.data_generator | Wrote cmdb_extract (151 rows)
+2026-11-13 12:28:05,776 | INFO | dboptima.data_generator | Wrote discovery_scan (148 rows)
+2026-11-13 12:28:05,780 | INFO | dboptima.data_generator | Wrote validation_sample (44 rows)
+2026-11-13 12:28:05,785 | INFO | dboptima.data_generator | Wrote expected_outcomes (15 rows)
+2026-11-13 12:28:05,932 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 0, 'assessed_on': '2026-11-13'}
+2026-11-13 12:28:06,156 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:28:06,202 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:28:06,755 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:28:07,385 | WARNING | dboptima.ai_advisor | Azure OpenAI unavailable - falling back: TimeoutError: down
+2026-11-13 12:28:07,657 | INFO | dboptima.database | Human decision recorded: REC-X Approved by A. Architect (Architect)
+2026-11-13 12:28:07,758 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records served from last-known snapshot
+2026-11-13 12:28:07,860 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 74, 'assessed_on': '2026-11-13'}
+2026-11-13 12:28:08,159 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:28:08,202 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:28:08,743 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:28:37,495 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 0, 'assessed_on': '2026-11-13'}
+2026-11-13 12:28:37,807 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:28:37,874 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:28:38,462 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:28:38,726 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:28:42,215 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records served from last-known snapshot
+2026-11-13 12:28:42,351 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 74, 'assessed_on': '2026-11-13'}
+2026-11-13 12:28:42,671 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:28:42,729 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:28:43,325 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:28:43,562 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:28:48,245 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records served from last-known snapshot
+2026-11-13 12:28:48,381 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 74, 'assessed_on': '2026-11-13'}
+2026-11-13 12:28:48,662 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:28:48,723 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:28:49,524 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:28:49,772 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:28:54,241 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records served from last-known snapshot
+2026-11-13 12:28:54,326 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 74, 'assessed_on': '2026-11-13'}
+2026-11-13 12:28:54,576 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:28:54,634 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:28:55,562 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:28:55,953 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:30:11,020 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 0, 'assessed_on': '2026-11-13'}
+2026-11-13 12:30:11,288 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:30:11,339 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:30:12,312 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:30:12,701 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:30:19,191 | INFO | dboptima.database | Human decision recorded: REC-ORA-0001 Approved by Jury Demo (Enterprise Architect)
+2026-11-13 12:34:23,332 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records served from last-known snapshot
+2026-11-13 12:36:00,614 | INFO | dboptima.data_generator | Wrote database_instances (150 rows)
+2026-11-13 12:36:00,619 | INFO | dboptima.data_generator | Wrote applications (16 rows)
+2026-11-13 12:36:00,627 | INFO | dboptima.data_generator | Wrote workload_metrics (150 rows)
+2026-11-13 12:36:00,633 | INFO | dboptima.data_generator | Wrote feature_usage (112 rows)
+2026-11-13 12:36:00,640 | INFO | dboptima.data_generator | Wrote recovery_requirements (150 rows)
+2026-11-13 12:36:00,648 | INFO | dboptima.data_generator | Wrote dependencies (163 rows)
+2026-11-13 12:36:00,659 | INFO | dboptima.data_generator | Wrote cost_records (768 rows)
+2026-11-13 12:36:00,665 | INFO | dboptima.data_generator | Wrote license_entitlements (15 rows)
+2026-11-13 12:36:00,670 | INFO | dboptima.data_generator | Wrote cmdb_extract (151 rows)
+2026-11-13 12:36:00,679 | INFO | dboptima.data_generator | Wrote discovery_scan (148 rows)
+2026-11-13 12:36:00,684 | INFO | dboptima.data_generator | Wrote validation_sample (44 rows)
+2026-11-13 12:36:00,688 | INFO | dboptima.data_generator | Wrote expected_outcomes (15 rows)
+2026-11-13 12:36:00,933 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 0, 'assessed_on': '2026-11-13'}
+2026-11-13 12:36:01,266 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:36:01,362 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:36:02,436 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:36:03,173 | WARNING | dboptima.ai_advisor | Azure OpenAI unavailable - falling back: TimeoutError: down
+2026-11-13 12:36:03,510 | INFO | dboptima.database | Human decision recorded: REC-X Approved by A. Architect (Architect)
+2026-11-13 12:36:03,962 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records served from last-known snapshot
+2026-11-13 12:36:04,249 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 74, 'assessed_on': '2026-11-13'}
+2026-11-13 12:36:04,672 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:36:04,772 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:36:05,626 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:44:32,994 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 0, 'assessed_on': '2026-11-13'}
+2026-11-13 12:44:33,298 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:44:33,390 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:44:34,454 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:44:34,884 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:47:39,768 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records served from last-known snapshot
+2026-11-13 12:47:39,951 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 74, 'assessed_on': '2026-11-13'}
+2026-11-13 12:47:40,547 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:47:40,580 | INFO | dboptima.data_generator | Wrote database_instances (150 rows)
+2026-11-13 12:47:40,588 | INFO | dboptima.data_generator | Wrote applications (16 rows)
+2026-11-13 12:47:40,598 | INFO | dboptima.data_generator | Wrote workload_metrics (150 rows)
+2026-11-13 12:47:40,606 | INFO | dboptima.data_generator | Wrote feature_usage (112 rows)
+2026-11-13 12:47:40,616 | INFO | dboptima.data_generator | Wrote recovery_requirements (150 rows)
+2026-11-13 12:47:40,627 | INFO | dboptima.data_generator | Wrote dependencies (163 rows)
+2026-11-13 12:47:40,642 | INFO | dboptima.data_generator | Wrote cost_records (768 rows)
+2026-11-13 12:47:40,647 | INFO | dboptima.data_generator | Wrote license_entitlements (15 rows)
+2026-11-13 12:47:40,658 | INFO | dboptima.data_generator | Wrote cmdb_extract (151 rows)
+2026-11-13 12:47:40,671 | INFO | dboptima.data_generator | Wrote discovery_scan (148 rows)
+2026-11-13 12:47:40,679 | INFO | dboptima.data_generator | Wrote validation_sample (44 rows)
+2026-11-13 12:47:40,685 | INFO | dboptima.data_generator | Wrote expected_outcomes (15 rows)
+High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:47:40,966 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 0, 'assessed_on': '2026-11-13'}
+2026-11-13 12:47:41,519 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:47:41,639 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:47:41,961 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:47:42,380 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:47:42,984 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:47:44,219 | WARNING | dboptima.ai_advisor | Azure OpenAI unavailable - falling back: TimeoutError: down
+2026-11-13 12:47:44,529 | INFO | dboptima.database | Human decision recorded: REC-X Approved by A. Architect (Architect)
+2026-11-13 12:47:44,787 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records served from last-known snapshot
+2026-11-13 12:47:45,057 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 74, 'assessed_on': '2026-11-13'}
+2026-11-13 12:47:45,575 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:47:45,690 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:47:46,885 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records served from last-known snapshot
+2026-11-13 12:47:47,132 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 74, 'assessed_on': '2026-11-13'}
+2026-11-13 12:47:47,155 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:47:47,712 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:47:47,850 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:47:48,989 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:47:49,434 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:47:53,860 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records served from last-known snapshot
+2026-11-13 12:47:54,024 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 74, 'assessed_on': '2026-11-13'}
+2026-11-13 12:47:54,366 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:47:54,486 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:47:55,906 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:47:56,478 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:48:02,234 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 0, 'assessed_on': '2026-11-13'}
+2026-11-13 12:48:02,483 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:48:02,547 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:48:03,640 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:48:03,983 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:48:06,331 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 0, 'assessed_on': '2026-11-13'}
+2026-11-13 12:48:06,624 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:48:06,695 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:48:07,351 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:48:07,698 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:52:12,563 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 0, 'assessed_on': '2026-11-13'}
+2026-11-13 12:52:12,920 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:52:12,991 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:52:13,884 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:52:14,174 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:56:19,173 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 0, 'assessed_on': '2026-11-13'}
+2026-11-13 12:56:19,578 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:56:19,669 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:56:20,849 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:56:21,229 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db
+2026-11-13 12:57:23,276 | WARNING | dboptima.reconciliation | Discovery collector unavailable for ['Oracle'] - 74 records served from last-known snapshot
+2026-11-13 12:57:23,403 | INFO | dboptima.reconciliation | Reconciliation: {'pilot_instances': 150, 'fully_reconciled': 143, 'reconciliation_rate': np.float64(95.3), 'matched': 146, 'conflicts_resolved': 11, 'shadow': 2, 'ghost': 2, 'not_discovered': 2, 'duplicates': 1, 'stale_snapshot': 74, 'assessed_on': '2026-11-13'}
+2026-11-13 12:57:23,696 | INFO | dboptima.dependency_intel | Dependency graph: 167 nodes, 163 edges
+2026-11-13 12:57:23,778 | INFO | dboptima.risk_intel | Risk assessment complete: {'Low': 54, 'High': 49, 'Medium': 44, 'Critical': 3}
+2026-11-13 12:57:24,515 | INFO | dboptima.decision_engine | Decision engine: {'Retain': 37, 'Upgrade': 36, 'Cloud Migrate': 35, 'Replatform': 25, 'Retire': 9, 'Consolidate': 8}
+2026-11-13 12:57:24,759 | INFO | dboptima.database | Loaded evidence tables into C:\Users\2199491\OneDrive - Marks and Spencer\Documents\Python\AIfridayC3\data\dboptima.db

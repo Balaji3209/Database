@@ -1,0 +1,113 @@
+instance_id,feature_name,product_option,licensable,detected_usages,currently_used,first_usage_date,last_usage_date,source,evidence_quality,collected_at
+ORA-0001,Partitioning (user),Partitioning,True,668,True,2022-07-16,2026-11-09,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-12
+ORA-0001,Automatic Workload Repository,Diagnostics Pack,True,181,True,2022-02-18,2026-11-09,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-12
+ORA-0005,Partitioning (user),Partitioning,True,366,True,2021-05-25,2026-11-11,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-11
+ORA-0005,Automatic Workload Repository,Diagnostics Pack,True,525,True,2023-12-14,2026-11-08,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-11
+ORA-0005,SQL Tuning Advisor,Tuning Pack,True,757,True,2023-01-15,2026-11-07,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-11
+ORA-0006,Real Application Clusters (RAC),Real Application Clusters,True,393,True,2023-04-08,2026-11-13,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-07
+ORA-0006,Active Data Guard - Real-Time Query on Physical Standby,Active Data Guard,True,477,True,2022-05-02,2026-11-11,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-07
+ORA-0006,Partitioning (user),Partitioning,True,892,True,2022-03-26,2026-11-12,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-07
+ORA-0006,Automatic Workload Repository,Diagnostics Pack,True,830,True,2024-10-31,2026-11-08,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-07
+ORA-0006,SQL Tuning Advisor,Tuning Pack,True,649,True,2023-11-19,2026-11-10,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-07
+ORA-0006,Transparent Data Encryption,Advanced Security,True,417,True,2022-05-04,2026-11-09,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-07
+ORA-0011,OLTP Table Compression,Advanced Compression,True,768,True,2020-12-07,2026-11-11,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-12
+ORA-0011,Automatic Workload Repository,Diagnostics Pack,True,464,True,2022-06-25,2026-11-09,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-12
+ORA-0012,Automatic Workload Repository,Diagnostics Pack,True,68,True,2025-03-13,2026-11-13,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-11
+ORA-0013,Automatic Workload Repository,Diagnostics Pack,True,237,True,2023-08-03,2026-11-11,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-11
+ORA-0013,Transparent Data Encryption,Advanced Security,True,293,True,2024-05-21,2026-11-08,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-11
+ORA-0013,Oracle Multitenant (>3 user PDBs),Multitenant,True,132,True,2023-04-16,2026-11-08,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-11
+ORA-0014,Partitioning (user),Partitioning,True,717,True,2023-04-12,2026-11-12,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-12
+ORA-0014,OLTP Table Compression,Advanced Compression,True,608,True,2022-10-01,2026-11-12,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-12
+ORA-0016,Real Application Clusters (RAC),Real Application Clusters,True,827,True,2022-09-30,2026-11-12,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-10
+ORA-0020,Partitioning (user),Partitioning,True,776,True,2021-12-01,2026-11-10,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-04
+ORA-0020,Automatic Workload Repository,Diagnostics Pack,True,12,False,2023-02-05,2024-12-27,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-04
+ORA-0020,Active Data Guard - Real-Time Query on Physical Standby,Active Data Guard,True,820,True,2021-06-24,2026-11-10,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-04
+ORA-0021,Partitioning (user),Partitioning,True,435,True,2024-04-19,2026-11-13,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-05
+ORA-0021,OLTP Table Compression,Advanced Compression,True,532,True,2022-04-08,2026-11-12,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-05
+ORA-0021,Automatic Workload Repository,Diagnostics Pack,True,630,True,2021-06-27,2026-11-07,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-05
+ORA-0021,Real Application Clusters (RAC),Real Application Clusters,True,704,True,2021-03-31,2026-11-08,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-05
+ORA-0022,Partitioning (user),Partitioning,True,331,True,2023-01-06,2026-11-12,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-05
+ORA-0022,Automatic Workload Repository,Diagnostics Pack,True,53,True,2025-08-31,2026-11-12,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-05
+ORA-0022,SQL Tuning Advisor,Tuning Pack,True,193,True,2022-10-10,2026-11-13,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-05
+ORA-0023,Automatic Workload Repository,Diagnostics Pack,True,716,True,2023-09-10,2026-11-10,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-02
+ORA-0023,SQL Tuning Advisor,Tuning Pack,True,341,False,2021-05-03,2025-09-27,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-02
+ORA-0023,In-Memory Column Store,Database In-Memory,True,771,True,2025-04-28,2026-11-07,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-02
+ORA-0023,Oracle Multitenant (>3 user PDBs),Multitenant,True,275,True,2024-12-14,2026-11-13,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-02
+ORA-0024,OLTP Table Compression,Advanced Compression,True,256,True,2021-06-13,2026-11-10,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-03
+ORA-0024,Automatic Workload Repository,Diagnostics Pack,True,206,True,2021-08-21,2026-11-13,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-03
+ORA-0026,Automatic Workload Repository,Diagnostics Pack,True,565,True,2025-07-15,2026-11-08,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-06
+ORA-0027,SQL Tuning Advisor,Tuning Pack,True,174,True,2023-12-15,2026-11-13,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-12
+ORA-0028,Automatic Workload Repository,Diagnostics Pack,True,257,True,2021-06-14,2026-11-13,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-06
+ORA-0029,Partitioning (user),Partitioning,True,131,False,2021-05-03,2025-07-12,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-05
+ORA-0031,Transparent Data Encryption,Advanced Security,True,744,True,2023-08-28,2026-11-11,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-01
+ORA-0031,Active Data Guard - Real-Time Query on Physical Standby,Active Data Guard,True,43,True,2025-01-07,2026-11-11,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-01
+ORA-0032,Automatic Workload Repository,Diagnostics Pack,True,167,True,2020-12-12,2026-11-09,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-01
+ORA-0032,SQL Tuning Advisor,Tuning Pack,True,161,True,2025-05-21,2026-11-09,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-01
+ORA-0033,Automatic Workload Repository,Diagnostics Pack,True,638,True,2023-09-25,2026-11-07,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-07
+ORA-0033,Oracle Multitenant (>3 user PDBs),Multitenant,True,741,True,2024-06-07,2026-11-11,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-07
+ORA-0034,Partitioning (user),Partitioning,True,677,True,2025-03-26,2026-11-09,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-11
+ORA-0034,Automatic Workload Repository,Diagnostics Pack,True,858,True,2025-05-26,2026-11-13,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-11
+ORA-0034,Real Application Clusters (RAC),Real Application Clusters,True,897,True,2025-01-17,2026-11-12,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-11
+ORA-0034,Oracle Multitenant (>3 user PDBs),Multitenant,True,112,True,2025-08-06,2026-11-12,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-11
+ORA-0035,OLTP Table Compression,Advanced Compression,True,75,True,2022-05-18,2026-11-08,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-03
+ORA-0036,Partitioning (user),Partitioning,True,380,True,2023-06-11,2026-11-07,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-08
+ORA-0036,Real Application Clusters (RAC),Real Application Clusters,True,62,True,2021-04-27,2026-11-08,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-08
+ORA-0037,Automatic Workload Repository,Diagnostics Pack,True,197,False,2022-10-17,2024-09-30,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-03
+ORA-0037,Real Application Clusters (RAC),Real Application Clusters,True,675,True,2024-09-09,2026-11-09,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-03
+ORA-0038,Partitioning (user),Partitioning,True,109,True,2022-01-16,2026-11-10,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-12
+ORA-0038,Active Data Guard - Real-Time Query on Physical Standby,Active Data Guard,True,187,True,2024-11-02,2026-11-07,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-12
+ORA-0038,Oracle Multitenant (>3 user PDBs),Multitenant,True,519,True,2022-09-09,2026-11-10,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-12
+ORA-0039,Partitioning (user),Partitioning,True,746,True,2023-05-12,2026-11-07,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-07
+ORA-0039,Automatic Workload Repository,Diagnostics Pack,True,249,True,2023-12-17,2026-11-09,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-07
+ORA-0041,Transparent Data Encryption,Advanced Security,True,879,True,2024-07-12,2026-11-12,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-12
+ORA-0043,Partitioning (user),Partitioning,True,162,True,2023-03-12,2026-11-11,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-05
+ORA-0043,Transparent Data Encryption,Advanced Security,True,378,True,2024-12-30,2026-11-11,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-05
+ORA-0044,Automatic Workload Repository,Diagnostics Pack,True,502,True,2023-01-25,2026-11-12,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-12
+ORA-0046,Partitioning (user),Partitioning,True,652,False,2022-05-25,2025-10-18,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-11
+ORA-0046,Automatic Workload Repository,Diagnostics Pack,True,394,True,2021-05-31,2026-11-08,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-11
+ORA-0048,Partitioning (user),Partitioning,True,612,True,2023-04-11,2026-11-07,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-05
+ORA-0049,OLTP Table Compression,Advanced Compression,True,447,True,2023-07-16,2026-11-09,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-05
+ORA-0049,SQL Tuning Advisor,Tuning Pack,True,136,True,2021-06-08,2026-11-08,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-05
+ORA-0049,Oracle Multitenant (>3 user PDBs),Multitenant,True,495,True,2021-07-02,2026-11-12,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-05
+ORA-0052,SQL Tuning Advisor,Tuning Pack,True,592,True,2023-12-17,2026-11-08,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-09
+ORA-0052,Oracle Multitenant (>3 user PDBs),Multitenant,True,690,True,2025-04-09,2026-11-13,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-09
+ORA-0055,Automatic Workload Repository,Diagnostics Pack,True,641,True,2021-04-09,2026-11-10,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-04
+ORA-0057,Partitioning (user),Partitioning,True,892,False,2022-04-17,2025-05-31,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-12
+ORA-0057,Automatic Workload Repository,Diagnostics Pack,True,297,True,2021-02-08,2026-11-07,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-12
+ORA-0057,Transparent Data Encryption,Advanced Security,True,713,True,2025-09-11,2026-11-11,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-12
+ORA-0057,Oracle Multitenant (>3 user PDBs),Multitenant,True,315,True,2021-04-06,2026-11-13,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-12
+ORA-0058,OLTP Table Compression,Advanced Compression,True,21,True,2021-11-08,2026-11-08,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-08
+ORA-0058,Automatic Workload Repository,Diagnostics Pack,True,682,True,2023-08-30,2026-11-09,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-08
+ORA-0059,Automatic Workload Repository,Diagnostics Pack,True,681,True,2022-01-26,2026-11-11,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-11
+ORA-0059,Transparent Data Encryption,Advanced Security,True,371,True,2020-12-29,2026-11-08,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-11
+ORA-0059,Active Data Guard - Real-Time Query on Physical Standby,Active Data Guard,True,22,True,2020-12-04,2026-11-13,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-11
+ORA-0060,Partitioning (user),Partitioning,True,206,True,2025-04-12,2026-11-12,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-07
+ORA-0060,Oracle Multitenant (>3 user PDBs),Multitenant,True,577,True,2022-12-19,2026-11-10,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-07
+ORA-0061,OLTP Table Compression,Advanced Compression,True,285,True,2024-06-13,2026-11-09,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-01
+ORA-0061,Automatic Workload Repository,Diagnostics Pack,True,643,True,2021-03-22,2026-11-13,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-01
+ORA-0064,Partitioning (user),Partitioning,True,750,True,2025-01-01,2026-11-13,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-10
+ORA-0066,Automatic Workload Repository,Diagnostics Pack,True,443,True,2022-11-02,2026-11-12,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-04
+ORA-0066,SQL Tuning Advisor,Tuning Pack,True,674,True,2021-06-15,2026-11-12,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-04
+ORA-0067,Automatic Workload Repository,Diagnostics Pack,True,426,True,2021-06-25,2026-11-11,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-02
+ORA-0069,Partitioning (user),Partitioning,True,140,False,2025-04-30,2025-04-30,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-11
+ORA-0069,Transparent Data Encryption,Advanced Security,True,622,True,2022-12-16,2026-11-07,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-11
+ORA-0069,Oracle Multitenant (>3 user PDBs),Multitenant,True,668,True,2023-02-22,2026-11-08,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-11
+ORA-0071,Automatic Workload Repository,Diagnostics Pack,True,212,True,2024-08-20,2026-11-07,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-01
+ORA-0071,SQL Tuning Advisor,Tuning Pack,True,452,False,2025-05-27,2025-05-27,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-01
+ORA-0071,Database Replay: Workload Capture,Real Application Testing,True,504,True,2020-11-29,2026-11-09,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-01
+ORA-0071,Real Application Clusters (RAC),Real Application Clusters,True,890,True,2021-12-01,2026-11-11,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),High,2026-11-01
+ORA-0073,Automatic Workload Repository,Diagnostics Pack,True,536,False,2022-06-11,2025-09-20,DBA_FEATURE_USAGE_STATISTICS (options_packs_usage_statistics.sql),Medium,2026-11-10
+MSS-0007,Always On AG - readable secondary,Always On AG - readable secondary,True,60,True,2023-07-08,2026-11-10,sys.dm_db_persisted_sku_features + server configuration,High,2026-11-02
+MSS-0007,Online Index Rebuild,Online Index Rebuild,True,428,True,2025-10-23,2026-11-12,sys.dm_db_persisted_sku_features + server configuration,High,2026-11-02
+MSS-0036,Always On AG - readable secondary,Always On AG - readable secondary,True,221,True,2024-05-25,2026-11-09,sys.dm_db_persisted_sku_features + server configuration,High,2026-11-08
+MSS-0036,Online Index Rebuild,Online Index Rebuild,True,475,True,2025-09-28,2026-11-08,sys.dm_db_persisted_sku_features + server configuration,High,2026-11-08
+MSS-0046,Transparent Data Encryption,Transparent Data Encryption,True,403,True,2022-10-07,2026-11-08,sys.dm_db_persisted_sku_features + server configuration,High,2026-11-03
+MSS-0047,Table Partitioning,Table Partitioning,True,463,True,2024-11-30,2026-11-10,sys.dm_db_persisted_sku_features + server configuration,High,2026-11-10
+MSS-0052,Online Index Rebuild,Online Index Rebuild,True,51,True,2025-05-29,2026-11-08,sys.dm_db_persisted_sku_features + server configuration,High,2026-11-08
+MSS-0052,Data Compression,Data Compression,True,235,True,2022-06-29,2026-11-11,sys.dm_db_persisted_sku_features + server configuration,High,2026-11-08
+MSS-0058,Online Index Rebuild,Online Index Rebuild,True,286,True,2023-11-30,2026-11-13,sys.dm_db_persisted_sku_features + server configuration,High,2026-11-09
+MSS-0064,Data Compression,Data Compression,True,96,True,2022-01-20,2026-11-13,sys.dm_db_persisted_sku_features + server configuration,High,2026-11-06
+MSS-0067,Transparent Data Encryption,Transparent Data Encryption,True,72,True,2024-11-28,2026-11-13,sys.dm_db_persisted_sku_features + server configuration,High,2026-11-03
+MSS-0070,Transparent Data Encryption,Transparent Data Encryption,True,456,True,2023-04-13,2026-11-12,sys.dm_db_persisted_sku_features + server configuration,High,2026-11-07
+MSS-0075,Online Index Rebuild,Online Index Rebuild,True,456,True,2022-12-24,2026-11-11,sys.dm_db_persisted_sku_features + server configuration,High,2026-11-09
+MSS-0075,Transparent Data Encryption,Transparent Data Encryption,True,322,True,2022-07-10,2026-11-09,sys.dm_db_persisted_sku_features + server configuration,High,2026-11-09

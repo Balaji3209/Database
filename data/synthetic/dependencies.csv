@@ -1,0 +1,164 @@
+dependency_id,source_type,source_id,target_type,target_id,dependency_type,interface,criticality,status,evidence_source,confidence,data_label
+DEP-0001,application,APP-PRC,database,ORA-0001,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0002,application,APP-DFC,database,ORA-0002,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0003,application,APP-GFT,database,ORA-0003,reads/writes,JDBC (connection pool),Low,Dormant,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0004,application,APP-WMS,database,ORA-0005,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0005,application,APP-PGW,database,ORA-0006,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0006,application,APP-SUP,database,ORA-0007,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0007,application,APP-DFC,database,ORA-0008,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0008,application,APP-PGW,database,ORA-0009,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0009,application,APP-OMS,database,ORA-0010,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0010,application,APP-PRC,database,ORA-0011,reads/writes,JDBC (connection pool),Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0011,application,APP-WMS,database,ORA-0013,reads/writes,JDBC (connection pool),Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0012,application,APP-SRP,database,ORA-0014,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0013,application,APP-SUP,database,ORA-0015,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0014,application,APP-DFC,database,ORA-0016,reads/writes,JDBC (connection pool),Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0015,application,APP-PGW,database,ORA-0017,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0016,application,APP-OMS,database,ORA-0018,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0017,application,APP-GFT,database,ORA-0020,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0018,application,APP-WMS,database,ORA-0021,reads/writes,JDBC (connection pool),Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0019,application,APP-SRP,database,ORA-0022,reads/writes,JDBC (connection pool),Low,Dormant,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0020,application,APP-SUP,database,ORA-0023,reads/writes,JDBC (connection pool),Low,Dormant,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0021,application,APP-DFC,database,ORA-0024,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0022,application,APP-PGW,database,ORA-0025,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0023,application,APP-OMS,database,ORA-0026,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0024,application,APP-GFT,database,ORA-0028,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0025,application,APP-WMS,database,ORA-0029,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0026,application,APP-SRP,database,ORA-0030,reads/writes,JDBC (connection pool),Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0027,application,APP-SUP,database,ORA-0031,reads/writes,JDBC (connection pool),Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0028,application,APP-DFC,database,ORA-0032,reads/writes,JDBC (connection pool),Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0029,application,APP-PGW,database,ORA-0033,reads/writes,JDBC (connection pool),Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0030,application,APP-OMS,database,ORA-0034,reads/writes,JDBC (connection pool),Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0031,application,APP-PRC,database,ORA-0035,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0032,application,APP-GFT,database,ORA-0036,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0033,application,APP-WMS,database,ORA-0037,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0034,application,APP-SRP,database,ORA-0038,reads/writes,JDBC (connection pool),Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0035,application,APP-SUP,database,ORA-0039,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0036,application,APP-DFC,database,ORA-0040,reads/writes,JDBC (connection pool),Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0037,application,APP-OMS,database,ORA-0042,reads/writes,JDBC (connection pool),Low,Dormant,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0038,application,APP-PRC,database,ORA-0043,reads/writes,JDBC (connection pool),Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0039,application,APP-GFT,database,ORA-0044,reads/writes,JDBC (connection pool),Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0040,application,APP-WMS,database,ORA-0045,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0041,application,APP-SRP,database,ORA-0046,reads/writes,JDBC (connection pool),Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0042,application,APP-SUP,database,ORA-0047,reads/writes,JDBC (connection pool),Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0043,application,APP-DFC,database,ORA-0048,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0044,application,APP-PGW,database,ORA-0049,reads/writes,JDBC (connection pool),Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0045,application,APP-OMS,database,ORA-0050,reads/writes,JDBC (connection pool),Low,Dormant,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0046,application,APP-PRC,database,ORA-0051,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0047,application,APP-GFT,database,ORA-0052,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0048,application,APP-WMS,database,ORA-0053,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0049,application,APP-SRP,database,ORA-0054,reads/writes,JDBC (connection pool),Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0050,application,APP-SUP,database,ORA-0055,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0051,application,APP-DFC,database,ORA-0056,reads/writes,JDBC (connection pool),Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0052,application,APP-PGW,database,ORA-0057,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0053,application,APP-PRC,database,ORA-0059,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0054,application,APP-GFT,database,ORA-0060,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0055,application,APP-WMS,database,ORA-0061,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0056,application,APP-SRP,database,ORA-0062,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0057,application,APP-SUP,database,ORA-0063,reads/writes,JDBC (connection pool),Low,Dormant,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0058,application,APP-DFC,database,ORA-0064,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0059,application,APP-PGW,database,ORA-0065,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0060,application,APP-OMS,database,ORA-0066,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0061,application,APP-PRC,database,ORA-0067,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0062,application,APP-GFT,database,ORA-0068,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0063,application,APP-WMS,database,ORA-0069,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0064,application,APP-SRP,database,ORA-0070,reads/writes,JDBC (connection pool),Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0065,application,APP-UNKNOWN,database,ORA-0071,reads/writes,JDBC (connection pool),Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0066,application,APP-DFC,database,ORA-0072,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0067,application,APP-PGW,database,ORA-0073,reads/writes,JDBC (connection pool),Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0068,application,APP-OMS,database,ORA-0074,reads/writes,JDBC (connection pool),Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0069,application,APP-PRC,database,ORA-0075,reads/writes,JDBC (connection pool),Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0070,application,APP-LOY,database,MSS-0001,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0071,application,APP-POS,database,MSS-0002,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0072,application,APP-INV,database,MSS-0003,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0073,application,APP-INV,database,MSS-0004,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0074,application,APP-INV,database,MSS-0005,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0075,application,APP-INV,database,MSS-0006,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0076,application,APP-FRD,database,MSS-0007,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0077,application,APP-DPL,database,MSS-0008,reads/writes,ODBC / ADO.NET,Critical,Dormant,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0078,application,APP-LOY,database,MSS-0009,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0079,application,APP-RFD,database,MSS-0010,reads/writes,ODBC / ADO.NET,Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0080,application,APP-FRD,database,MSS-0011,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0081,application,APP-POS,database,MSS-0012,reads/writes,ODBC / ADO.NET,Low,Dormant,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0082,application,APP-TMS,database,MSS-0013,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0083,application,APP-PIM,database,MSS-0014,reads/writes,ODBC / ADO.NET,Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0084,application,APP-DPL,database,MSS-0016,reads/writes,ODBC / ADO.NET,Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0085,application,APP-LOY,database,MSS-0017,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0086,application,APP-RFD,database,MSS-0018,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0087,application,APP-FRD,database,MSS-0019,reads/writes,ODBC / ADO.NET,Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0088,application,APP-POS,database,MSS-0020,reads/writes,ODBC / ADO.NET,Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0089,application,APP-TMS,database,MSS-0021,reads/writes,ODBC / ADO.NET,Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0090,application,APP-PIM,database,MSS-0022,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0091,application,APP-DPL,database,MSS-0024,reads/writes,ODBC / ADO.NET,Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0092,application,APP-LOY,database,MSS-0025,reads/writes,ODBC / ADO.NET,Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0093,application,APP-RFD,database,MSS-0026,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0094,application,APP-FRD,database,MSS-0027,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0095,application,APP-POS,database,MSS-0028,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0096,application,APP-TMS,database,MSS-0029,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0097,application,APP-PIM,database,MSS-0030,reads/writes,ODBC / ADO.NET,Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0098,application,APP-INV,database,MSS-0031,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0099,application,APP-DPL,database,MSS-0032,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0100,application,APP-LOY,database,MSS-0033,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0101,application,APP-RFD,database,MSS-0034,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0102,application,APP-FRD,database,MSS-0035,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0103,application,APP-TMS,database,MSS-0037,reads/writes,ODBC / ADO.NET,Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0104,application,APP-PIM,database,MSS-0038,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0105,application,APP-INV,database,MSS-0039,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0106,application,APP-DPL,database,MSS-0040,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0107,application,APP-LOY,database,MSS-0041,reads/writes,ODBC / ADO.NET,Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0108,application,APP-RFD,database,MSS-0042,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0109,application,APP-FRD,database,MSS-0043,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0110,application,APP-POS,database,MSS-0044,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0111,application,APP-TMS,database,MSS-0045,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0112,application,APP-PIM,database,MSS-0046,reads/writes,ODBC / ADO.NET,Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0113,application,APP-INV,database,MSS-0047,reads/writes,ODBC / ADO.NET,Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0114,application,APP-DPL,database,MSS-0048,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0115,application,APP-RFD,database,MSS-0050,reads/writes,ODBC / ADO.NET,Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0116,application,APP-FRD,database,MSS-0051,reads/writes,ODBC / ADO.NET,Low,Dormant,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0117,application,APP-POS,database,MSS-0052,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0118,application,APP-TMS,database,MSS-0053,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0119,application,APP-PIM,database,MSS-0054,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0120,application,APP-INV,database,MSS-0055,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0121,application,APP-DPL,database,MSS-0056,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0122,application,APP-UNKNOWN,database,MSS-0057,reads/writes,ODBC / ADO.NET,Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0123,application,APP-RFD,database,MSS-0058,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0124,application,APP-FRD,database,MSS-0059,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0125,application,APP-POS,database,MSS-0060,reads/writes,ODBC / ADO.NET,Critical,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0126,application,APP-TMS,database,MSS-0061,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0127,application,APP-PIM,database,MSS-0062,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0128,application,APP-DPL,database,MSS-0064,reads/writes,ODBC / ADO.NET,Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0129,application,APP-LOY,database,MSS-0065,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0130,application,APP-RFD,database,MSS-0066,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0131,application,APP-FRD,database,MSS-0067,reads/writes,ODBC / ADO.NET,Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0132,application,APP-POS,database,MSS-0068,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0133,application,APP-TMS,database,MSS-0069,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0134,application,APP-PIM,database,MSS-0070,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0135,application,APP-INV,database,MSS-0071,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0136,application,APP-UNKNOWN,database,MSS-0072,reads/writes,ODBC / ADO.NET,Low,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0137,application,APP-LOY,database,MSS-0073,reads/writes,ODBC / ADO.NET,Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0138,application,APP-RFD,database,MSS-0074,reads/writes,ODBC / ADO.NET,Low,Active,CMDB relationship only,Low,SYNTHETIC-DEMO
+DEP-0139,application,APP-FRD,database,MSS-0075,reads/writes,ODBC / ADO.NET,Critical,Active,APM + DB catalogue,High,SYNTHETIC-DEMO
+DEP-0140,database,ORA-0020,database,ORA-0036,db_link,Oracle DB link,High,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0141,database,ORA-0021,database,MSS-0069,ETL,Informatica workflow,Medium,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0142,database,ORA-0031,database,ORA-0046,db_link,Oracle DB link,Medium,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0143,database,ORA-0034,database,ORA-0011,db_link,Oracle DB link,Medium,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0144,database,ORA-0036,database,ORA-0068,db_link,Oracle DB link,Medium,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0145,database,ORA-0038,database,ORA-0046,db_link,Oracle DB link,High,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0146,database,ORA-0047,database,MSS-0055,ETL,GoldenGate replication,High,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0147,database,ORA-0057,database,MSS-0033,ETL,GoldenGate replication,High,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0148,database,ORA-0066,database,MSS-0059,ETL,Informatica workflow,High,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0149,database,ORA-0068,database,MSS-0065,ETL,SSIS package,High,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0150,database,ORA-0074,database,MSS-0057,ETL,SSIS package,Medium,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0151,database,MSS-0035,database,ORA-0044,ETL,GoldenGate replication,High,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0152,database,MSS-0047,database,ORA-0016,ETL,GoldenGate replication,Medium,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0153,database,MSS-0048,database,ORA-0037,ETL,Informatica workflow,High,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0154,database,MSS-0052,database,MSS-0059,linked_server,SQL linked server,High,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0155,database,MSS-0054,database,MSS-0062,linked_server,SQL linked server,High,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0156,database,MSS-0055,database,ORA-0021,ETL,SSIS package,Medium,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0157,database,MSS-0057,database,ORA-0011,ETL,SSIS package,High,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0158,database,MSS-0059,database,MSS-0033,linked_server,SQL linked server,Medium,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0159,database,MSS-0062,database,ORA-0024,ETL,SSIS package,Medium,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0160,database,MSS-0069,database,ORA-0046,ETL,SSIS package,High,Active,DB catalogue (dba_db_links / sys.servers) + APM,High,SYNTHETIC-DEMO
+DEP-0161,database,ORA-0006,database,ORA-0001,db_link,Oracle DB link,Critical,Active,DB catalogue (dba_db_links) + APM,High,SYNTHETIC-DEMO
+DEP-0162,database,MSS-0007,database,ORA-0006,ETL,GoldenGate replication,Critical,Active,APM trace + interface register,High,SYNTHETIC-DEMO
+DEP-0163,application,APP-OMS,database,ORA-0005,reads/writes,JDBC (connection pool),Critical,Active,APM trace,High,SYNTHETIC-DEMO

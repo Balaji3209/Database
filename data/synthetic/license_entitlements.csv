@@ -1,0 +1,16 @@
+entitlement_id,vendor,product,metric,quantity,unit_list_price_gbp,support_rate,annual_support_gbp,agreement_ref,support_renewal_date,source_document,evidence_quality,data_label
+ENT-001,Oracle,Active Data Guard,Processor,64,9200,0.22,129536.0,CSI-DEMO-4401,2027-02-06,Ordering document + support renewal (synthetic),High,SYNTHETIC-DEMO
+ENT-002,Oracle,Advanced Compression,Processor,44,9200,0.22,89056.0,CSI-DEMO-4402,2027-03-03,Ordering document + support renewal (synthetic),High,SYNTHETIC-DEMO
+ENT-003,Oracle,Advanced Security,Processor,74,12000,0.22,195360.0,CSI-DEMO-4403,2027-03-28,Ordering document + support renewal (synthetic),High,SYNTHETIC-DEMO
+ENT-004,Oracle,Database In-Memory,Processor,10,18400,0.22,40480.0,CSI-DEMO-4404,2027-04-22,Ordering document + support renewal (synthetic),High,SYNTHETIC-DEMO
+ENT-005,Oracle,Database Vault,Processor,0,9200,0.22,0.0,CSI-DEMO-4405,2027-05-17,Ordering document + support renewal (synthetic),High,SYNTHETIC-DEMO
+ENT-006,Oracle,Diagnostics Pack,Processor,323,6000,0.22,426360.0,CSI-DEMO-4406,2027-06-11,Ordering document + support renewal (synthetic),High,SYNTHETIC-DEMO
+ENT-007,Oracle,Multitenant,Processor,40,14000,0.22,123200.0,CSI-DEMO-4407,2027-07-06,Ordering document + support renewal (synthetic),High,SYNTHETIC-DEMO
+ENT-008,Oracle,Oracle Database Enterprise Edition,Processor,331,38000,0.22,2767160.0,CSI-DEMO-4408,2027-07-31,Ordering document + support renewal (synthetic),High,SYNTHETIC-DEMO
+ENT-009,Oracle,Oracle Database Standard Edition 2,Socket,24,14000,0.22,73920.0,CSI-DEMO-4409,2027-08-25,Ordering document + support renewal (synthetic),High,SYNTHETIC-DEMO
+ENT-010,Oracle,Partitioning,Processor,125,9200,0.22,253000.0,CSI-DEMO-4410,2027-09-19,Ordering document + support renewal (synthetic),High,SYNTHETIC-DEMO
+ENT-011,Oracle,Real Application Clusters,Processor,68,18400,0.22,275264.0,CSI-DEMO-4411,2027-10-14,Ordering document + support renewal (synthetic),High,SYNTHETIC-DEMO
+ENT-012,Oracle,Real Application Testing,Processor,18,9200,0.22,36432.0,CSI-DEMO-4412,2027-11-08,Ordering document + support renewal (synthetic),High,SYNTHETIC-DEMO
+ENT-013,Microsoft,SQL Server Enterprise,Core,152,6050,0.25,229900.0,EA-DEMO-4413,2027-12-03,Ordering document + support renewal (synthetic),High,SYNTHETIC-DEMO
+ENT-014,Microsoft,SQL Server Standard,Core,472,1580,0.25,186440.0,EA-DEMO-4414,2027-12-28,Ordering document + support renewal (synthetic),High,SYNTHETIC-DEMO
+ENT-015,Oracle,Tuning Pack,Processor,84,4000,0.22,73920.0,CSI-DEMO-4415,2028-01-22,Ordering document + support renewal (synthetic),High,SYNTHETIC-DEMO

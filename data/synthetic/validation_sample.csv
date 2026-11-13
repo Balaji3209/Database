@@ -1,0 +1,45 @@
+instance_id,attribute,system_value,validated_value,validated_by,validated_on,match,data_label
+MSS-0030,dependency,APP-PIM->MSS-0030,interface decommissioned 2025,emma.smith@contoso-demo.example,2026-11-11,False,SYNTHETIC-DEMO
+MSS-0004,edition,Standard,Standard,oliver.smith@contoso-demo.example,2026-11-05,True,SYNTHETIC-DEMO
+MSS-0006,dependency,APP-INV->MSS-0006,APP-INV->MSS-0006,james.wilson@contoso-demo.example,2026-11-08,True,SYNTHETIC-DEMO
+ORA-0042,edition,Standard Edition 2,Standard Edition 2,liam.reddy@contoso-demo.example,2026-11-05,True,SYNTHETIC-DEMO
+ORA-0069,feature,Partitioning (user): used,Partitioning (user): used,chloe.patel@contoso-demo.example,2026-11-07,True,SYNTHETIC-DEMO
+ORA-0061,feature,Automatic Workload Repository: used,Automatic Workload Repository: not used (OEM default job),rahul.iyer@contoso-demo.example,2026-11-04,False,SYNTHETIC-DEMO
+MSS-0067,dependency,APP-FRD->MSS-0067,APP-FRD->MSS-0067,emma.nair@contoso-demo.example,2026-11-06,True,SYNTHETIC-DEMO
+ORA-0071,feature,Automatic Workload Repository: used,Automatic Workload Repository: used,vikram.taylor@contoso-demo.example,2026-11-12,True,SYNTHETIC-DEMO
+ORA-0002,dependency,APP-DFC->ORA-0002,APP-DFC->ORA-0002,liam.reddy@contoso-demo.example,2026-11-04,True,SYNTHETIC-DEMO
+ORA-0043,feature,Transparent Data Encryption: used,Transparent Data Encryption: used,vikram.reddy@contoso-demo.example,2026-11-07,True,SYNTHETIC-DEMO
+ORA-0063,dependency,APP-SUP->ORA-0063,APP-SUP->ORA-0063,sophie.smith@contoso-demo.example,2026-11-04,True,SYNTHETIC-DEMO
+ORA-0066,feature,Automatic Workload Repository: used,Automatic Workload Repository: used,liam.reddy@contoso-demo.example,2026-11-03,True,SYNTHETIC-DEMO
+ORA-0006,feature,SQL Tuning Advisor: used,SQL Tuning Advisor: used,rahul.evans@contoso-demo.example,2026-11-05,True,SYNTHETIC-DEMO
+ORA-0043,feature,Partitioning (user): used,Partitioning (user): used,vikram.patel@contoso-demo.example,2026-11-04,True,SYNTHETIC-DEMO
+ORA-0033,edition,Enterprise Edition,Enterprise Edition,aarav.patel@contoso-demo.example,2026-11-08,True,SYNTHETIC-DEMO
+ORA-0071,edition,Enterprise Edition,Enterprise Edition,ananya.khan@contoso-demo.example,2026-11-06,True,SYNTHETIC-DEMO
+MSS-0075,edition,Enterprise,Enterprise,ananya.reddy@contoso-demo.example,2026-11-03,True,SYNTHETIC-DEMO
+ORA-0001,feature,Partitioning (user): used,Partitioning (user): used,grace.sharma@contoso-demo.example,2026-11-10,True,SYNTHETIC-DEMO
+ORA-0067,edition,Enterprise Edition,Enterprise Edition,ananya.sharma@contoso-demo.example,2026-11-08,True,SYNTHETIC-DEMO
+MSS-0036,edition,Enterprise,Enterprise,ananya.patel@contoso-demo.example,2026-11-03,True,SYNTHETIC-DEMO
+ORA-0041,edition,Enterprise Edition,Enterprise Edition,oliver.iyer@contoso-demo.example,2026-11-04,True,SYNTHETIC-DEMO
+ORA-0028,dependency,APP-GFT->ORA-0028,APP-GFT->ORA-0028,chloe.patel@contoso-demo.example,2026-11-06,True,SYNTHETIC-DEMO
+ORA-0053,edition,Standard Edition 2,Standard Edition 2,sophie.sharma@contoso-demo.example,2026-11-12,True,SYNTHETIC-DEMO
+ORA-0026,feature,Automatic Workload Repository: used,Automatic Workload Repository: used,liam.taylor@contoso-demo.example,2026-11-07,True,SYNTHETIC-DEMO
+ORA-0052,edition,Enterprise Edition,Enterprise Edition,priya.evans@contoso-demo.example,2026-11-08,True,SYNTHETIC-DEMO
+ORA-0031,dependency,APP-SUP->ORA-0031,APP-SUP->ORA-0031,priya.wilson@contoso-demo.example,2026-11-03,True,SYNTHETIC-DEMO
+MSS-0055,dependency,APP-INV->MSS-0055,APP-INV->MSS-0055,grace.reddy@contoso-demo.example,2026-11-04,True,SYNTHETIC-DEMO
+ORA-0013,feature,Transparent Data Encryption: used,Transparent Data Encryption: used,vikram.iyer@contoso-demo.example,2026-11-08,True,SYNTHETIC-DEMO
+ORA-0057,dependency,APP-PGW->ORA-0057,APP-PGW->ORA-0057,james.sharma@contoso-demo.example,2026-11-05,True,SYNTHETIC-DEMO
+ORA-0036,feature,Partitioning (user): used,Partitioning (user): used,sophie.evans@contoso-demo.example,2026-11-10,True,SYNTHETIC-DEMO
+MSS-0033,edition,Standard,Standard,grace.iyer@contoso-demo.example,2026-11-05,True,SYNTHETIC-DEMO
+ORA-0029,edition,Enterprise Edition,Enterprise Edition,chloe.taylor@contoso-demo.example,2026-11-03,True,SYNTHETIC-DEMO
+MSS-0021,edition,Developer,Developer,james.iyer@contoso-demo.example,2026-11-08,True,SYNTHETIC-DEMO
+MSS-0011,edition,Developer,Developer,james.jones@contoso-demo.example,2026-11-10,True,SYNTHETIC-DEMO
+MSS-0026,dependency,APP-RFD->MSS-0026,APP-RFD->MSS-0026,ananya.patel@contoso-demo.example,2026-11-11,True,SYNTHETIC-DEMO
+MSS-0012,edition,Developer,Developer,chloe.evans@contoso-demo.example,2026-11-09,True,SYNTHETIC-DEMO
+ORA-0023,feature,Automatic Workload Repository: used,Automatic Workload Repository: used,emma.nair@contoso-demo.example,2026-11-10,True,SYNTHETIC-DEMO
+MSS-0059,dependency,APP-FRD->MSS-0059,APP-FRD->MSS-0059,emma.smith@contoso-demo.example,2026-11-12,True,SYNTHETIC-DEMO
+ORA-0025,dependency,APP-PGW->ORA-0025,APP-PGW->ORA-0025,sophie.jones@contoso-demo.example,2026-11-04,True,SYNTHETIC-DEMO
+ORA-0013,feature,Oracle Multitenant (>3 user PDBs): used,Oracle Multitenant (>3 user PDBs): used,priya.khan@contoso-demo.example,2026-11-10,True,SYNTHETIC-DEMO
+ORA-0012,edition,Enterprise Edition,Enterprise Edition,vikram.evans@contoso-demo.example,2026-11-05,True,SYNTHETIC-DEMO
+ORA-0022,feature,SQL Tuning Advisor: used,SQL Tuning Advisor: used,rahul.taylor@contoso-demo.example,2026-11-06,True,SYNTHETIC-DEMO
+MSS-0046,feature,Transparent Data Encryption: used,Transparent Data Encryption: used,aarav.iyer@contoso-demo.example,2026-11-10,True,SYNTHETIC-DEMO
+ORA-0048,feature,Partitioning (user): used,Partitioning (user): used,emma.smith@contoso-demo.example,2026-11-12,True,SYNTHETIC-DEMO
