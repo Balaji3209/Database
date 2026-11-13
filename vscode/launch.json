@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "DB-OPTIMA: Run Streamlit app",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "streamlit",
+            "args": ["run", "app.py"],
+            "cwd": "${workspaceFolder}",
+            "justMyCode": true
+        },
+        {
+            "name": "DB-OPTIMA: Regenerate synthetic data + DB",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/init_db.py",
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "DB-OPTIMA: Run tests",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "pytest",
+            "args": ["-q"],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
